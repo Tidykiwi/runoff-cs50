@@ -5,7 +5,7 @@ Completed as part of studying CS50 - Introduction to Computer Science from Harva
 Implement a program that runs a runoff election, per the below.<br>
 
 ./runoff Alice Bob Charlie<br>
-Number of voters: 5<br>
+Number of voters: 5<br><br>
 Rank 1: Alice
 Rank 2: Bob
 Rank 3: Charlie
